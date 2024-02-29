@@ -1,7 +1,7 @@
 package 조건문연습문제사번;
 
 import java.util.Scanner;
-
+//116767675
 public class number4 {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
