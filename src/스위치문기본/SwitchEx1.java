@@ -6,6 +6,7 @@ import java.util.Scanner;
 // if문은 조건식이 사용될 수 있지만 스위치문은 조건식은 사용할 수 없고 변수값으로 조건 분기를 해야 함
 // if문에 비해서 가독성이 좋음
 public class SwitchEx1 {
+    //123123
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
 
